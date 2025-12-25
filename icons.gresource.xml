@@ -1,0 +1,21 @@
+<gresources>
+  <gresource prefix="/org">
+    <file>icons/delete.png</file>
+    <file>icons/save-enabled.png</file>
+    <file>icons/save-disabled.png</file>
+    <file>icons/user.png</file>
+    <file>icons/user-add.png</file>
+    <file>icons/admin.png</file>
+    <file>icons/group.png</file>
+    <file>icons/group-add.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/question-mark.png</file>
+    <file>icons/check-all.png</file>
+    <file>icons/apps/run.png</file>
+    <file>icons/apps/close.png</file>
+    <file>icons/apps/run-copy.png</file>
+    <file>icons/apps/write.png</file>
+    <file>icons/apps/edit.png</file>
+    <file>icons/apps/edit-advanced.png</file>
+  </gresource>
+</gresources>
